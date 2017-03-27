@@ -14,7 +14,7 @@ app.get('/ui/style.css', function (req, res) {
 });
 
 app.get('/ui/madi.png', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'madi.png'));
+  res.sendFile(path.join(__dirname, 'ui', 'https://www.google.co.in/search?biw=1366&bih=657&tbm=isch&sa=1&q=jay+puppala&oq=jay+puppala&gs_l=img.3...11321.11759.0.12571.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.img..0.0.0.Smx8sdexM3M#imgrc=e0cPDRqs5KuLTM:'));
 });
 
 
